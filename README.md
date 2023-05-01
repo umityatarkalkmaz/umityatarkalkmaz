@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <?php 
 Class UmitYatarkalkmaz exteds Human
   public array $ability  = ['Gamer','YouTuber','Video Editor','Likes to code a person'];
-  public array $links = [
+  private array $links = [
   'My gaming YouTube chanel' => 'https://youtube.com/@umityatarkalkmaz',
   'For more information about me' => 'https://umityatarkalkmaz.com.tr'
   ];
