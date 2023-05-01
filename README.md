@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```php
+<?php 
+Class UmitYatarkalkmaz exteds Human
+  public array $ability  = ['Gamer','YouTuber','Video Editor','Likes to code a person'];
+  public array $links = [
+  'My gaming YouTube chanel' => 'https://youtube.com/@umityatarkalkmaz',
+  'For more information about me' => 'https://umityatarkalkmaz.com.tr'
+  ];
+}
+```
+Links:
+
+'My gaming YouTube chanel' -> [YouTube](https://umityatarkalkmaz.com.tr)
+
+'For more information about me' -> [My blog](https://umityatarkalkmaz.com.tr)
