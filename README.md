@@ -26,6 +26,6 @@ Class UmitYatarkalkmaz exteds Human
 ```
 Links:
 
-'My gaming YouTube chanel' -> [YouTube](https://umityatarkalkmaz.com.tr)
+'My gaming YouTube chanel' -> [YouTube](https://youtube.com/@umityatarkalkmaz)
 
 'For more information about me' -> [My blog](https://umityatarkalkmaz.com.tr)
