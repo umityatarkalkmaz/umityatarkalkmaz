@@ -1,31 +1,21 @@
-### Hi there 👋
+## Ümit Yatarkalkmaz
 
-<!--
-**umityatarkalkmaz/umityatarkalkmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some-stack developer 😎  
+Mostly backend. Sometimes full. Rarely front.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-```php
-<?php 
-Class UmitYatarkalkmaz exteds Human
-  public array $ability  = ['Gamer','YouTuber','Video Editor','Likes to code a person'];
-  private array $links = [
-  'My gaming YouTube chanel' => 'https://youtube.com/@umityatarkalkmaz',
-  'For more information about me' => 'https://umityatarkalkmaz.com.tr'
-  ];
-}
-```
-Links:
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-302E31?style=flat&logo=obsstudio&logoColor=white)
 
-'My gaming YouTube chanel' -> [YouTube](https://youtube.com/@umityatarkalkmaz)
+---
 
-'For more information about me' -> [My blog](https://umityatarkalkmaz.com.tr)
+🧠 Automating, optimizing, occasionally breaking things.
+
+🔗 [View my repositories](https://github.com/umityatarkalkmaz)
