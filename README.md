@@ -27,7 +27,8 @@ Also tinkering with servers, containers, and sometimes... videos 🎥
 ### 🌐 Find Me Online
 
 🔗 **Website:** [yatarkalkmaz.com](https://yatarkalkmaz.com)  
-🎮 **YouTube:** [youtube.com/@yatarkalkmaz](https://www.youtube.com/@yatarkalkmaz)
+🎮 **YouTube:** [Yatarkalkmaz YTM](https://www.youtube.com/@yatarkalkmaz)
+🎮 **YouTube:** [Gaming Chanel](https://www.youtube.com/@umityatarkalkmaz)
 
 ---
 
