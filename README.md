@@ -1,19 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%2B+Node.js+%2B+Go;Self-hosted+infrastructure+%26+Linux;Building+a+CDN+and+a+headless+CMS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%2B+Node.js+%2B+Go;Custom+software+for+businesses;Self-hosted+infrastructure+%26+Linux" alt="Typing SVG" />
 
 </div>
 
 # Ümit Yatarkalkmaz
 
-Full-stack developer based in Mersin, Türkiye. I build mostly with **Next.js**, **Node.js**, and lately **Go**, with **Rust** and **Python** for desktop and tooling work. Most of my time goes into self-hosted infrastructure — the kind of setup where you own the servers, the deploy pipeline, and every outage that comes with them.
+<p align="left">
+  <img src="https://img.shields.io/badge/Mersin-T%C3%BCrkiye-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/umityatarkalkmaz?style=for-the-badge&logo=github&color=58A6FF" />
+  <img src="https://img.shields.io/github/stars/umityatarkalkmaz?affiliations=OWNER&style=for-the-badge&logo=github&color=58A6FF" />
+</p>
 
-I run [Yatarkalkmaz Teknoloji](https://yatarkalkmaz.com), a small studio where I currently work on a CDN and a headless CMS.
+Full-stack developer based in Mersin, Türkiye. I build mostly with **Next.js**, **Node.js**, and lately **Go**, with **Rust** and **Python** for desktop and tooling work.
+
+I run [Yatarkalkmaz Teknoloji](https://yatarkalkmaz.com), a software studio. On the corporate side we build custom software for businesses — web platforms, e-commerce, internal tools and back-office panels — and I handle the engineering end of it: architecture, the codebase, deployment, and the servers it all runs on. Self-hosted infrastructure is where most of my time goes: you own the machines, the deploy pipeline, and every outage that comes with them.
 
 <br>
 
 ## What I work on
 
+- **Corporate software** — custom web platforms, e-commerce, and internal tools built to spec
 - **Self-hosted infrastructure** — Docker, Linux, Cloudflare, reverse proxies, backups that actually restore
 - **Web** — Next.js / TypeScript front ends on Node.js and Go services
 - **Desktop tooling** — small, single-purpose apps in Rust (egui) and Python (PySide6)
@@ -55,18 +62,6 @@ I run [Yatarkalkmaz Teknoloji](https://yatarkalkmaz.com), a small studio where I
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<br>
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=umityatarkalkmaz&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umityatarkalkmaz&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=umityatarkalkmaz&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <br>
