@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/github/stars/umityatarkalkmaz?affiliations=OWNER&style=for-the-badge&logo=github&color=58A6FF" />
 </p>
 
-Full-stack developer based in Mersin, Türkiye. I build mostly with **Next.js**, **Node.js**, and lately **Go**, with **Rust** and **Python** for desktop and tooling work.
-
 I run [Yatarkalkmaz Teknoloji](https://yatarkalkmaz.com), a software studio. On the corporate side we build custom software for businesses — web platforms, e-commerce, internal tools and back-office panels — and I handle the engineering end of it: architecture, the codebase, deployment, and the servers it all runs on. Self-hosted infrastructure is where most of my time goes: you own the machines, the deploy pipeline, and every outage that comes with them.
 
 <br>
