@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%2B+Node.js+%2B+Go;Custom+software+for+businesses;Self-hosted+infrastructure+%26+Linux" alt="Typing SVG" />
-
-</div>
-
 # Ümit Yatarkalkmaz
 
 <p align="left">
